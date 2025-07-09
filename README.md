@@ -1,4 +1,3 @@
-readme_text = """
 Personality Prediction from Social Behavior Data
 ===============================================
 
